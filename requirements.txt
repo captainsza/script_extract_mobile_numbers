@@ -1,0 +1,11 @@
+# Core dependencies
+pytesseract>=0.3.8
+Pillow>=8.2.0
+pandas>=1.3.0
+opencv-python>=4.5.3.56
+numpy>=1.21.0
+openpyxl>=3.0.7
+
+# Optional but recommended
+python-logging-cloudwatch>=0.1.2  # For AWS CloudWatch logging support
+tqdm>=4.61.2  # For progress bars
